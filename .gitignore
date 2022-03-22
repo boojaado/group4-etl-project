@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+megan_repush_github/.DS_Store
+megan_repush_github/ERD/.DS_Store
+megan_repush_github/ Resources/.DS_Store
